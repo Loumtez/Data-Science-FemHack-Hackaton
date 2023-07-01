@@ -7,6 +7,6 @@ This project was developed for **Data Science FemHack Hackaton Vol. II**. The ai
 ### :pushpin: Files:
 - *ChangeOrg_Hackaton.ipynb* file: file with the code used in this challenge.
 - *train and test .csv* files: train.csv and test.csv, one to train the classification model and another one to predict the success of the petitions with the trained model, to generate the predictions file.
-- *victory_flag_prediction .csv and .json* files: the prediction files with the "test_idx" column for petition identification and the column "victory_falg_prediction" with the result. The number 0 is for a dismissed petition and 1 for a sucessful petition.
+- *predictions .csv and .json* files: the prediction files with the "test_idx" column for petition identification and the column "victory_falg_prediction" with the result. The number 0 is for a dismissed petition and 1 for a sucessful petition.
 - *README.md* file
 
